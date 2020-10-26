@@ -11,6 +11,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=react&show_icons=truea&hide=ipynb&layout=compact)](https://github.com/JerryIshihara/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JerryIshihara&theme=react)](https://github.com/JerryIshihara/github-readme-stats)
 
 ![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=react&show_icons=true)
+
+-->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=default&show_icons=true&hide=jupyter%20notebook&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JerryIshihara&theme=default" />
+</a>
+
