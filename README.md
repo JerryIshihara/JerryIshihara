@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 
 ![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=react&show_icons=true)
 
+
+<a href="https://github.com/JerryIshihara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JerryIshihara&theme=vue" />
+</a>
+
+
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JerryIshihara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=vue&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=vue&show_icons=true&hide=jupyter%20notebook&repo=github-readme-stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JerryIshihara&theme=vue" />
+<a href="https://github.com/JerryIshihara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=vue&show_icons=true&hide=jupyter%20notebook" />
 </a>
 
