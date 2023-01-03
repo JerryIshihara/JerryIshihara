@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/JerryIshihara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=vue&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryIshihara&theme=radical&show_icons=true" />
 </a>
 
 <a href="https://github.com/JerryIshihara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=vue&show_icons=true&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryIshihara&theme=radical&show_icons=true&hide=jupyter%20notebook" />
 </a>
 
